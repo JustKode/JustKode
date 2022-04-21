@@ -27,11 +27,12 @@ I'm an undergraduate student at **KyungHee University** majoring in Computer Eng
 <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff"/></a>
 
 #### Backend
-<a><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=ffffff"/></a>
-<a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff"/></a>
-<a><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/MongoDB-6DB33F?style=flat-square&logo=MongoDB&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=ffffff"/></a>
 
 #### Cloud Computing
