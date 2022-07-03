@@ -14,7 +14,7 @@ I'm an undergraduate student at **KyungHee University** majoring in Computer Eng
 - 2021.6 ~ : KyungHee Univ. Software Membership
 - 2021.8 ~ 2021.11 : KyungHee Univ. NLP Lab
 - 2022.1 ~ : KyungHee Univ. Club D.Com, Director of Education
-- 2022.3 ~ : Depromeet 11th Member
+- 2022.3 ~ 2022.7: Depromeet 11th Member
 
 ### Social
 <a href="https://justkode.kr/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-4A86CF?style=flat-square&logo=HomeAdvisor&logoColor=ffffff"/></a>
