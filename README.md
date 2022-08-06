@@ -36,6 +36,7 @@ I'm an undergraduate student at **KyungHee University** majoring in Computer Eng
 <a><img src="https://img.shields.io/badge/MongoDB-6DB33F?style=flat-square&logo=MongoDB&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff"/><a/>
+<a><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff"/><a/>
 <a><img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=ffffff"/><a/>
 
 #### Cloud Computing
