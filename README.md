@@ -4,10 +4,10 @@ Hello, My Name is **Min Jae Park.**
 I'm an undergraduate student at **KyungHee University** majoring in Computer Engineering.
 
 ### I'm interested in...
+- Data Engineering
 - Web Server Programming
 - Natural Language Processing
 - Cloud Computing
-- Big Data Processing
 
 ### Experience
 - 2021.3 ~ 2021.12 : KyungHee Univ. major of C.E Student President
@@ -16,6 +16,7 @@ I'm an undergraduate student at **KyungHee University** majoring in Computer Eng
 - 2022.1 ~ : KyungHee Univ. Club D.Com, Director of Education
 - 2022.3 ~ 2022.7: Depromeet 11th Member
 - 2022.7 ~ 2022.8: LINE Ads Server Engineer Intern
+- 2023.1 ~ : LINE Ads Data Engineer
 
 ### Social
 <a href="https://justkode.kr/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-4A86CF?style=flat-square&logo=HomeAdvisor&logoColor=ffffff"/></a>
