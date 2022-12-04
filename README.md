@@ -10,10 +10,10 @@ I'm an undergraduate student at **KyungHee University** majoring in Computer Eng
 - Cloud Computing
 
 ### Experience
-- 2021.3 ~ 2021.12 : KyungHee Univ. major of C.E Student President
+- 2021.3 ~ 2021.12 : Student representative of KyungHee Univ, Department of C.E
 - 2021.6 ~ 2021.12: KyungHee Univ. Software Membership
 - 2021.8 ~ 2021.11 : KyungHee Univ. NLP Lab
-- 2022.1 ~ : KyungHee Univ. Club D.Com, Director of Education
+- 2022.1 ~ 2022.12: KyungHee Univ. Club D.Com, Director of Education
 - 2022.3 ~ 2022.7: Depromeet 11th Member
 - 2022.7 ~ 2022.8: LINE Ads Server Engineer Intern
 - 2023.1 ~ : LINE Ads Data Engineer
@@ -21,7 +21,7 @@ I'm an undergraduate student at **KyungHee University** majoring in Computer Eng
 ### Social
 <a href="https://justkode.kr/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-4A86CF?style=flat-square&logo=HomeAdvisor&logoColor=ffffff"/></a>
 <a href="https://justkode.kr/proj" target="_blank"><img src="https://img.shields.io/badge/Portfolio-17377F?style=flat-square&logo=Awesome%20Lists&logoColor=ffffff"/></a>
-<a href="https://www.instagram.com/just.kode/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"/></a>
+<a href="https://www.instagram.com/__o.cean/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"/></a>
 
 ### Tech Used
 #### Frontend
