@@ -33,15 +33,21 @@ I'm an undergraduate student at **KyungHee University** majoring in Computer Eng
 <a><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff"/></a>
+
+#### Database
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/MongoDB-6DB33F?style=flat-square&logo=MongoDB&logoColor=ffffff"/></a>
-<a><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff"/><a/>
 <a><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff"/><a/>
-<a><img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=ffffff"/><a/>
-
+  
+#### Big Data
+<a><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=ffffff"/><a/>
+<a><img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=000000"/><a/>
+<a><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=ffffff"/><a/>
+  
 #### Cloud Computing
 <a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=ffffff"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustKode&show_icons=true&theme=react)
