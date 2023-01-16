@@ -1,8 +1,6 @@
 ### 👋 I'm JustKode
 Hello, My Name is **Min Jae Park.**
 
-I'm an undergraduate student at **KyungHee University** majoring in Computer Engineering.
-
 ### I'm interested in...
 - Data Engineering
 - Web Server Programming
