@@ -47,5 +47,3 @@ Hello, My Name is **Min Jae Park.**
 <a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=ffffff"/></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustKode&show_icons=true&theme=react)
