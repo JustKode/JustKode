@@ -3,9 +3,8 @@ Hello, My Name is **Min Jae Park.**
 
 ### I'm interested in...
 - Data Engineering
-- Web Server Programming
-- Natural Language Processing
 - Cloud Computing
+- Web Server Programming
 
 ### Experience
 - 2021.3 ~ 2021.12 : Student representative of KyungHee Univ, Department of C.E
