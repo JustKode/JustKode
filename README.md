@@ -40,6 +40,8 @@ Hello, My Name is **Min Jae Park.**
 #### Big Data
 <a><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=ffffff"/><a/>
 <a><img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=000000"/><a/>
+<a><img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=Apache%20Hive&logoColor=000000"/><a/>
+<a><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=000000"/><a/>
 <a><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=ffffff"/><a/>
   
 #### Cloud Computing
