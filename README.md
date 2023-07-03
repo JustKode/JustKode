@@ -7,9 +7,9 @@ Hello, My Name is **Min Jae Park.**
 - Web Server Programming
 
 ### Experience
-- 2021.3 ~ 2021.12 : Student President of KyungHee Univ, Department of C.E
+- 2021.3 ~ 2021.12: Student President of KyungHee Univ, Department of C.E
 - 2021.6 ~ 2021.12: KyungHee Univ. Software Membership
-- 2021.8 ~ 2021.11 : KyungHee Univ. NLP Lab
+- 2021.8 ~ 2021.11: KyungHee Univ. NLP Lab
 - 2022.1 ~ 2022.12: KyungHee Univ. Club D.Com, Director of Education
 - 2022.3 ~ 2022.7: Depromeet 11th Member
 - 2022.7 ~ 2022.8: LINE Ads Server Engineer Intern
