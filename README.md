@@ -1,6 +1,8 @@
 ### 👋 I'm JustKode
 Hello, My Name is **Min Jae Park.**
 
+I'm working at **LINE+ Corporation** as **Data engineer.**
+
 ### I'm interested in...
 - Data Engineering
 - Cloud Computing
@@ -14,6 +16,12 @@ Hello, My Name is **Min Jae Park.**
 - 2022.3 ~ 2022.7: Depromeet 11th Member
 - 2022.7 ~ 2022.8: LINE Ads Server Engineer Intern
 - 2023.1 ~ : LINE Ads Data Engineer
+  - **Data Pipeline** Development
+    - Data Ingestion & Management
+    - Report Job for OLAP
+    - Process **80 billion records per day** within the team
+  - **Monitoring System** Development
+  - Managing **Multi-tenancy Airflow System** with Kubernetes
 
 ### Social
 <a href="https://justkode.kr/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-4A86CF?style=flat-square&logo=HomeAdvisor&logoColor=ffffff"/></a>
