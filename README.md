@@ -9,7 +9,7 @@ I'm working at **LINE+ Corporation** as **Data engineer.**
 - Web Server Programming
 
 ### Experience
-- 2022.7 ~ 2022.8: LINE Ads Server Engineer Intern
+- 2022.7 ~ 2022.8: LINE Ads Data Engineer Intern
 - 2023.1 ~ : LINE Ads Data Engineer
   - **Data Pipeline** Development
     - Data Ingestion & Management
